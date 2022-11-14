@@ -6,9 +6,6 @@
     font-size: 300%;
     padding-bottom: 3%;
 }
-#titulo:hover{
-    color: #f2991db3;
-}
 #presentacion{
     padding: 0% 3%;
     background-image: url(waves.svg);
@@ -51,12 +48,6 @@
 }
 .text{
     font-size:small;
-}
-.text:hover{
-    transition: .3s;
-    transform: scalex(1.2) scaley(1.2);
-    transform-origin: center;
-    font-weight: bold;
 }
 #est{
     background-image: url(waves2.svg); 
